@@ -1,0 +1,26 @@
+body {
+    background: lightblue;
+    font-family: "Franklin Gothic Medium",
+        "Arial Narrow",
+        Arial,
+        sans-serif;
+}
+
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+
+}
+
+img {
+    margin: 15%;
+}
+
+.retour {
+    background: black;
+    border-radius: 20px;
+}
+
+.retour:hover {
+    background: white;
+}

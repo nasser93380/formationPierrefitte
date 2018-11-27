@@ -1,0 +1,29 @@
+body {
+  background: black;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: lightblue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 25px;
+}
+
+.retour {
+  background: black;
+  border-radius: 20px;
+}
+
+.retour:hover {
+  background: white;
+}
+
+a {
+  color: white;
+  background: red;
+  border-radius: 20px;
+}
+
+a:hover {
+  background: lightblue;
+}
