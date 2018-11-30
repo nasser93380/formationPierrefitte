@@ -26,7 +26,7 @@ h3 {
     margin-right: 24%;
 }
 
-ul {
+.C1 {
     list-style-type: none;
     float: right;
     margin: 0;
@@ -34,12 +34,12 @@ ul {
     padding-top: 2%;
 }
 
-li {
+.C2 {
     float: left;
     width: 25%;
 }
 
-li a {
+.C2 a {
     color: white;
     text-align: center;
     text-decoration: none;
@@ -47,7 +47,7 @@ li a {
     background: black;
 }
 
-li a:hover {
+.C2 a:hover {
     background: rgb(44, 39, 39);
 }
 
@@ -88,6 +88,81 @@ a {
 #AC1,
 #AC2,
 #AC3,
-#AC4 {
-    width: 20%
+#AC4,
+#AC5 {
+    width: 20%;
+    color: orange;
+}
+
+.pti-img {
+    margin-left: -4.3%;
+}
+
+#AC1,
+#AC2,
+#AC3,
+#AC4,
+#AC5:hover {
+    background-color: white;
+}
+
+.part1 {
+    margin: 0 auto;
+    font-family: unset;
+    font-size: 100%;
+    width: 45%;
+    float: left;
+    margin-left: 2%;
+}
+
+#part2 {
+    float: left;
+}
+
+.part3 {
+    margin: 0 auto;
+    font-family: unset;
+    font-size: 100%;
+    width: 66%;
+    float: left;
+    margin-left: -66%;
+    margin-top: 17%;
+}
+
+.part5 {
+    float: right;
+    margin-top: -33%;
+    margin-right: 3%;
+    list-style-type: upper-roman;
+    list-style-type: upper-roman;
+    list-style-type: upper-roman;
+}
+
+.part6 {
+    float: right;
+    margin-right: 11%;
+    font-size: 100%;
+    font-family: sans-serif;
+}
+
+.C3 {
+    color: #B1B2B3;
+    margin: 0 auto;
+    float: right;
+    margin-top: -1%;
+    margin-right: 25%;
+    font-size: 15px;
+}
+
+.C4 {
+    color: #B1B2B3;
+    margin: 0 auto;
+    margin-left: 25%;
+    font-size: 15px;
+}
+
+footer {
+    background: #1d1d1d;
+    height: 50px;
+
 }
