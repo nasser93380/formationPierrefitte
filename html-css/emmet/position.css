@@ -1,0 +1,24 @@
+div .entete {
+    background: #CCFFCC;
+    width: 100%;
+}
+
+.gauche {
+    width: 50;
+    background: #FFBEEB;
+}
+
+.droite {
+    width: 50%;
+    background: #FFFF66
+}
+
+.centre {
+    width: 50%;
+    background: #33FFFF;
+}
+
+.pieddepage {
+    width: 100%;
+    background: #9BDAA7;
+}
