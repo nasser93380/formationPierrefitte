@@ -1,0 +1,260 @@
+* {
+  font-weight: 210;
+}
+
+.City {
+  text-align: center;
+  color: brown;
+  padding-top: 50px;
+}
+
+.Bilan {
+  letter-spacing: 4px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  width: 33%;
+  position: absolute;
+  right: 34%;
+  text-align: center;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+                                            
+.acceuil {
+  width: 33%;
+  position: absolute;
+  bottom: 76%;
+  right: 34%;
+  text-align: center;
+  font-style: italic;
+}
+
+.img1 {
+  position: absolute;
+  right: 54%;
+  top: 24%;
+  float: right;
+
+}
+
+.exe {
+  border-bottom: 1px solid black;
+  position: absolute;
+  bottom: 50%;
+  right: 30%;
+  width: 35%;
+  text-align: right;
+  font-size: 17px;
+  border-collapse: collapse;
+  font-style: italic;
+}
+
+.exetex {
+  text-align: right;
+  position: absolute;
+  bottom: 38%;
+  right: 30%;
+  width: 35%;
+  text-transform: uppercase;
+}
+
+
+.img2 {
+  position: absolute;
+  top: 80%;
+  right: 28%;
+  float: right;
+    
+}
+
+.salle {
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 30px;
+  position: absolute;
+  top: 90%;
+  left: 18.2%;
+  border-bottom: 1px solid black;
+  width: 25%;
+}
+
+.salle2 {
+  position: absolute;
+  top: 96%;
+  left: 18.2%;
+  font-style: italic;
+  width: 25%;
+}
+
+.note {
+  color: white;
+  background: black;
+  position: absolute;
+  top: 109%;
+  left: 18.2%;
+  width: 9%;
+  text-transform: uppercase;
+}
+
+.img3 {
+  position: absolute;
+  top: 133%;
+  left: 18.2%;
+}
+
+.service {
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 30px;
+  border-bottom: 1px solid black;
+  width: 25%;
+  position: absolute;
+  top: 150%;
+  right: 28%;
+}
+
+.service2 {
+  font-style: italic;
+  width: 25%;
+  position: absolute;
+  top: 156%;
+  right: 28%;
+}
+
+.note2 {
+  color: white;
+  background: black;
+  position: absolute;
+  top: 165%;
+  right: 44%;
+  width: 9%;
+  text-transform: uppercase;
+}
+
+.img4 {
+  position: absolute;
+  top: 186.2%;
+  right: 28.1%;
+}
+
+.dressage {
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 30px;
+  border-bottom: 1px solid black;
+  width: 25%;
+  position: absolute;
+  top: 198.2%;
+  left: 18.2%;
+}
+
+.dressage2 {
+  font-style: italic;
+  width: 25%;
+  position: absolute;
+  top: 204.2%;
+  left: 18.2%;
+}
+
+.note3 {
+  color: white;
+  background: black;
+  position: absolute;
+  top: 212.2%;
+  left: 18.2%;
+  width: 9%;
+  text-transform: uppercase;
+}
+
+.img5 {
+  position: absolute;
+  top: 239%;
+  left: 18.2%;
+}
+
+.gout {
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 30px;
+  border-bottom: 1px solid black;
+  width: 25%;
+  position: absolute;
+  top: 251%;
+  right: 28.1%;
+}
+
+.gout2 {
+  font-style: italic;
+  width: 25%;
+  position: absolute;
+  top: 257%;
+  right: 28.1%;
+}
+
+.note4 {
+  color: white;
+  background: black;
+  position: absolute;
+  top: 270%;
+  right: 44%;
+  width: 9%;
+  text-transform: uppercase;
+}
+
+.fin {
+  opacity: 1;
+  position: absolute;
+  top: 302.5%;
+  right: 48%;
+  letter-spacing: 4px;
+  color: gray;
+}
+
+.fin1 {
+  position: absolute;
+  top: 300%;
+  right: 48%;
+}
+
+.fin2 {
+  letter-spacing: 4px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  width: 33%;
+  position: absolute;
+  top: 315%;
+  right: 34%;
+  text-align: center;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.adresse {
+  letter-spacing: 4px;
+  position: absolute;
+  top: 320%;
+  right: 40%;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.num {
+  letter-spacing: 2px;
+  position: absolute;
+  top: 322%;
+  right: 48%;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.jours {
+  position: absolute;
+  top: 324%;
+  right: 43%;
+  text-align: center;
+  font-style:italic;
+  font-size:18px;
+}
+section {
+  
+}
